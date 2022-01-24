@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lew Zhi Yang</h1>
 <h3 align="center">Changing the world one line at a time</h3>
 
-<h4 align="center">I am a Software Engineer based in Singapore, SG. I am proficient in both Frontend development and Backend development. I have extensive knowledge in Python, HTML, CSS, Javascript, Node.Js, MongoDB, and React. I will have a degree in computer science by 2022. With code, I aspire to help bring ideas to life. </h4>
+<h4 align="center">I am a Software Engineer based in Singapore, SG. I am proficient in both Frontend development and Backend development. I have extensive knowledge in C, Prolog, Haskell, Python, HTML, CSS, Javascript, Node.Js, MySQL, and React. I will have a degree in computer science by 2022. With code, I aspire to help bring ideas to life. </h4>
 
 - 🌱 I’m currently learning **about AI and web development**
 
