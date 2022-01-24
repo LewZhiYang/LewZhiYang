@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **about AI and web development**
 
-- 📫 How to reach me **1zhiyang1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
