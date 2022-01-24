@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lew Zhi Yang</h1>
-<h3 align="center">Dedicated to change the world with code.</h3>
+<h3 align="center">Changing the world one line at a time</h3>
 
 - 🌱 I’m currently learning **about AI and web development**
 
